@@ -5,7 +5,7 @@
 
 - 👋 Hi, I’m Khant Thu
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning <h3>VueJs</h3>
+- 🌱 I’m currently learning <span style="font-weight:bold">VueJs</span>
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me <a href="khantthu1742002@gmail.com" >Email
 
