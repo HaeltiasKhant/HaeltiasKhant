@@ -7,7 +7,7 @@
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning <strong>VueJs</strong>
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me <a href="khantthu1742002@gmail.com" >Email
+- 📫 How to reach me <a href="mailto:khantthu1742002@gmail.com" >Email
 
 <!---
 HaeltiasKhant/HaeltiasKhant is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
